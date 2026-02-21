@@ -3,14 +3,14 @@ using UnityEngine;
 
 public class SwindlerDetector : MonoBehaviour
 {
-    public event Action SwindlerEnter;
-    public event Action SwindlerExit;
+    public event Action SwindlerEntered;
+    public event Action SwindlerExited;
 
     private void OnTriggerEnter(Collider other)
     {
         if (other.TryGetComponent(out Swindler swindler))
         {
-            SwindlerEnter?.Invoke();
+            SwindlerEntered?.Invoke();
         }
     }
 
@@ -18,7 +18,7 @@ public class SwindlerDetector : MonoBehaviour
     {
         if (other.TryGetComponent(out Swindler swindler))
         {
-            SwindlerExit?.Invoke();
+            SwindlerExited?.Invoke();
         }
     }
 }
