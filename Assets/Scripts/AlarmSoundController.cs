@@ -48,14 +48,14 @@ public class AlarmSoundController : MonoBehaviour
     {
         WaitForSeconds wait;
 
-        float period = 0.05f;
-        float step = 0.1f * Time.deltaTime;
+        float period = 0.1f;
+        float step = 0.05f;
 
         wait = new WaitForSeconds(period);
 
-        while (_audioSource.volume != goal)
+        while (Mathf.Abs(_audioSource.volume - goal) > 0.01f)
         {
-            _audioSource.volume =  Mathf.MoveTowards(_audioSource.volume, goal, step);
+            _audioSource.volume = Mathf.MoveTowards(_audioSource.volume, goal, step);
 
             yield return wait;
         }
