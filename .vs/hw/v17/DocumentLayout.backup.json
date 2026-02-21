@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{8F29CD23-6CBC-43D0-F659-45BEE3C0F740}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\alarmsoundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F29CD23-6CBC-43D0-F659-45BEE3C0F740}|Assembly-CSharp.csproj|d:\\unitiprojects\\hw\\assets\\scripts\\swindlerdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F29CD23-6CBC-43D0-F659-45BEE3C0F740}|Assembly-CSharp.csproj|D:\\UnitiProjects\\hw\\assets\\scripts\\swindlerdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F29CD23-6CBC-43D0-F659-45BEE3C0F740}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\swindlerdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,8 +34,7 @@
               "RelativeToolTip": "Assets\\Scripts\\SwindlerDetector.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T12:51:43.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T12:51:43.415Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\AlarmSoundController.cs",
               "ToolTip": "D:\\UnitiProjects\\hw\\Assets\\Scripts\\AlarmSoundController.cs",
               "RelativeToolTip": "Assets\\Scripts\\AlarmSoundController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAADIAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDcAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T12:57:15.236Z",
               "EditorCaption": ""
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Swindler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T12:35:18.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T12:35:18.628Z"
             }
           ]
         }
